@@ -8,7 +8,7 @@ Download and drag the file onto your script area to begin. You must rearrange th
 
 ![second hand gif](second-hand.gif)
 
-When you have completed your assignment, export the project and upload it to the appropriate folder on Brightspace.
+When you have completed your assignment, export the project and upload it to the appropriate folder on Brightspace - instructions provided.
 
 ### Acknowledgements
 
