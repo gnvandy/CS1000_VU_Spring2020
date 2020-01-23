@@ -304,6 +304,6 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week Fifteen - Project Demonstrations
 
-#### December 3 - Student Projects, Part One
+#### Apr 14, 2020 - Student Projects, Part One
 
-#### December 5 - Student Projects, Part Two
+#### Apr 16, 2020 - Student Projects, Part Two
