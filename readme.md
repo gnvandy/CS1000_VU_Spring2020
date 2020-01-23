@@ -5,7 +5,7 @@ This course introduces the fundamental concepts of computing including abstracti
 
 While envisioned as an introduction to computing for non-majors, majors and prospective majors are also welcome. Students in the School of Engineering may only receive open elective credit for CS 1000.
 
-A mirror copy of the syllabus is available on [Github](https://github.com/CliffordAnderson/CS1000).
+A mirror copy of the syllabus is available on [Github](https://github.com/gnvandy/CS1000_VU_Spring2020/edit/master/readme.md).
 
 ## Learning Outcomes
 
@@ -15,15 +15,14 @@ A mirror copy of the syllabus is available on [Github](https://github.com/Cliffo
 
 ## Faculty
 
-- [Clifford Anderson](https://www.cliffordanderson.net/), Associate University Librarian for Research and Digital Initiatives and Adjunct Professor of Computer Science
-  - Email: clifford.anderson@vanderbilt.edu
-  - Office: 213 Law Library
-  - Office Hours: 9 - 11 a.m. on Mondays or by appointment
-  - Administrative Assistant: Susan D. Grider (2-2187)
+- [Gayathri Narasimham], Research Assistant Professor, Electrical Engineering and Computer Science Dept., Vanderbilt University School of Engineering
+  - Email: gayathri.narasimham@vanderbilt.edu
+  - Office: 333 Featheringill Hall
+  - Office Hours: 11 - 12 noon on Thursdays or by appointment
 
 ## Meetings
 
-- T/R 9:35 a.m. - 10:50 a.m. in Olin Hall 135
+- T/R 9:35 a.m. - 10:50 a.m. in Stevenson 5326
 
 ## Required Texts
 
@@ -74,7 +73,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week One: Introduction
 
-#### August 22 - What is Computational Thinking?
+#### January 9, 2020 - What is Computational Thinking?
 
 - Read: Claire L. Evans, "A Computer Wanted," Chapter 1 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Computational Thinking: A Digital Age Skill for Everyone](https://www.youtube.com/watch?v=VFcUgSYyRPg)
@@ -85,7 +84,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week Two: Programming Basics
 
-#### August 27 - What are Algorithms?
+#### Jan 14, 2020 - What are Algorithms?
 
 - Read: Martin Erwig, "A Path to Computation," Chapter 1 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Beauty & Joy of Computing | Dan Garcia | TEDxBerkeley](https://www.youtube.com/watch?v=ozRovyDwKEM)
@@ -95,7 +94,7 @@ This syllabus provides a general outline for the course. The readings and coding
   - Splatter Painting
   - Click Alzonzo
 
-#### August 29 - Predicates and Branching
+#### Jan 16, 2020 - Predicates and Branching
 
 - Read: Martin Erwig, "Walk the Walk: When Computation Really Happens," Chapter 2 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Basic Logic Gates: Explained! (in Minecraft)](https://www.youtube.com/watch?v=9EY_XoEImjM)
@@ -106,7 +105,7 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week Three: Abstraction I
 
-#### September 3 - Control Structures and Variables
+#### Jan 21, 2020 - Control Structures and Variables
 
 - Read: "Weather, Rinse, Repeat," Chapter 10 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [What's an Algorithm?](https://www.youtube.com/watch?v=6hfOvs8pY1k&t=)
@@ -115,10 +114,7 @@ This syllabus provides a general outline for the course. The readings and coding
   - Reporter Blocks
   - Palindrome Checker
 
-#### September 5 - Privacy and Information Hiding
-*Coding assignment 1 due at the beginning of class*
-
-*Guest lecturer: Melissa Mallon, Director of Peabody Library/Director of Liaison & Instruction Services*
+#### Jan 23, 2020 - Privacy and Information Hiding
 
 - Read: Hannah Fry, "Data," Chapter 2 of *Hello World: Being Human in the Age of Algorithms* (New York: Norton, 2018), pp. 25-47
 - Watch: [Amazon's Alexa Raises Concerns Over Tech and Surveillance](https://www.youtube.com/watch?v=2i2Sn09gmWc)
@@ -129,15 +125,15 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week Four: Data Structures I
 
-#### September 10 - Representations
+#### Jan 28, 2020 - Representations
 
 - Read: Martin Erwig, "The Mystery of Signs," Chapter 3 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Binary Numbers and Base Systems as Fast as Possible](https://www.youtube.com/watch?v=LpuPe81bc2w)
 - Code:
   - Convert Decimal to Binary (and back)
 
-#### September 12 - Lists
-*Coding assignment 2 due at the beginning of class*
+#### Jan 30, 2020 - Lists
+*Coding assignment 1 due at the beginning of class*
 
 - Read: Martin Erwig, "The Detective's Notebook," Chapter 4 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Lists](https://www.youtube.com/watch?v=KUQSgUMtyv0)
@@ -147,7 +143,8 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week Five: Data Structures II
 
-#### September 17 - Data Types
+#### Feb 4, 2020 - Data Types
+*Coding assignment 2 due at the beginning of class*
 
 - Read: Martin Erwig, "The Magical Type," Chapter 14 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [Data Types](https://www.youtube.com/watch?v=5wx3EWjOqnc)
@@ -155,8 +152,7 @@ This syllabus provides a general outline for the course. The readings and coding
   - Geospatial Coordinates
   - Structured Data Library
 
-#### September 19 - Copyrights
-*Coding assignment 3 due at the beginning of class*
+#### Feb 6, 2020 - Copyrights
 
 - Read:  Andres Guadamuz, "[Artificial Intelligence and Copyright](https://www.wipo.int/export/sites/www/wipo_magazine/en/pdf/2017/wipo_pub_121_2017_05.pdf)," WIPO Magazine (October 2017): 15-19
 - Watch: [Copying Is Not Theft](https://www.youtube.com/watch?v=IeTybKL1pM4)
@@ -166,7 +162,8 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week Six: Games and Secrets
 
-#### September 24 - Events and Game Loops
+#### Feb 11, 2020 - Events and Game Loops
+*Coding assignment 3 due at the beginning of class*
 
 - Read: Claire L. Evans, "The Longest Cave," Chapter 6 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Event-Driven Programming](https://www.youtube.com/watch?v=fpphnWwMrug&t=22s)
@@ -174,8 +171,7 @@ This syllabus provides a general outline for the course. The readings and coding
   - Platform Game
   - Artwork Puzzle
 
-#### September 26 - Digital Secrets
-*Coding assignment 4 due at the beginning of class*
+#### Feb 13, 2020 - Digital Secrets
 
 - Read: Masaaki Mitani, Shinichi Sato, and Idero Hinoki. "The Foundations of Encryption," Chapter One of *The Manga Guide to Cryptography* (San Francisco: No Starch Press, 2018), pp. 15-46
 - Watch: [Cryptography: The Science of Making and Breaking Codes](https://www.youtube.com/watch?v=-yFZGF8FHSg)
@@ -184,15 +180,15 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week Seven: Abstraction II
 
-#### October 1 - Higher-Order Functions
+#### Feb 18, 2020 - Higher-Order Functions
+*Coding assignment 4 due at the beginning of class*
 
 - Read: Claire L. Evans, "The Tower of Babel," Chapter 4 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Who is Grace Hopper?](https://www.youtube.com/watch?v=Fg82iV-L8ZY)
 - Code:
   - Caesar Cipher, *Revisted*
 
-#### October 3 - Artificial Intelligence
-*Coding assignment 5 due at the beginning of class*
+#### Feb 20, 2020 - Artificial Intelligence
 
 - Read: Alan Turing (October 1950), "[Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238)", *Mind*, LIX (236): 433–460
 - Watch: [Friends Forever: Can an Artist and a Robot Maintain a Friendship?](https://www.youtube.com/watch?v=UsSYWmLm02U)
@@ -202,7 +198,8 @@ This syllabus provides a general outline for the course. The readings and coding
 
 ### Week Eight: Algorithms I
 
-#### October 8 - Searching
+#### Feb 25, 2020 - Searching
+*Coding assignment 5 due at the beginning of class*
 
 - Read: Martin Erwig, "The Search for the Perfect Data Structure," Chapter 5 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [How Search Engines Treat Data](https://www.youtube.com/watch?v=vrjAIBgxm_w)
@@ -211,7 +208,7 @@ This syllabus provides a general outline for the course. The readings and coding
   - Linear Search
   - Binary Search
 
-#### October 10 - Sorting
+#### Feb 27, 2020 - Sorting
 
 - Read: Martin Erwig, "Sorting Out Sorting," Chapter 6 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
 - Watch: [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
@@ -223,15 +220,16 @@ This syllabus provides a general outline for the course. The readings and coding
   - Quicksort
   - Merge Sort
 
-### Week Nine: Review and Midterm
+### Week Nine: No classes, Spring Break! :)
 
-#### October 15 - Review
+### Week Ten: Review and Midterm
 
-#### October 17 - Midterm Exam
+#### Mar 10, 2020 - Review
+#### Mar 12, 2020 - Midterm Exam
 
-### Week Ten: Distributed Computing I
+### Week Eleven: Distributed Computing I and II
 
-#### October 22 - Message Passing
+#### Mar 17, 2020 - Message Passing
 
 - Read: Claire L. Evans, "Resource One," Chapter 7 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Project One](https://archive.org/details/cbpf_000052) [N.B. Please watch the first five minutes and 46:00 to 48:30.]
@@ -239,44 +237,23 @@ This syllabus provides a general outline for the course. The readings and coding
   - "Hello, Worlds" (Peer-to-Peer)
   - Whiteboard
 
-### October 24 - No Class - Fall Break
+#### Mar 19, 2020 - Client-Server Applications
 
-### Week Eleven: Distributed Computing II
-
-#### October 29 - Client-Server Applications
 - Read: Claire L. Evans, "Networks," Chapter 8 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [Early Days of the WELL](https://www.youtube.com/watch?v=-5XRrza88v4)
 - Code:
   - Chatroom
+  
+### Week Twelve: Distributed Computing II
 
-#### October 31 - Internet Censorship and Security
+#### Mar 24, 2020 - Internet Censorship and Security
 
 - Read: MacKinnon, Rebecca. "[Democratic Censorship](https://ebookcentral.proquest.com/lib/vand/reader.action?docID=868682&ppg=114)," Chapter 6 of *Consent of the Networked: The Worldwide Struggle For Internet Freedom* (Basic Books, 2012), pp. 87-97
 - Watch: [What Is A Man-in-the-Middle Attack?](https://www.youtube.com/watch?v=DgqID9k83oQ)
 - Code:
   - Person-in-the-Middle Attack
 
-### Week Twelve: Algorithms II
-
-#### November 5 - Recursion
-
-- Read: Martin Erwig, "A Stich in Time Computers Fine," Chapter 12 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
-- Watch: [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
-- Code:
-  - Trees in a Forest
-  - Computing Factorials
-
-#### November 7 - Efficiency and Limits of Computing
-
-- Read: "Mission Intractable," Chapter 7 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
-- Watch: [P vs NP on TV](https://www.youtube.com/watch?v=dJUEkjxylBw)
-- Code:
-  - Prime Number Factorization
-  - Knapsack Problem
-
-### Week Thirteen: Distributed Computing II
-
-#### November 12 - Remote Procedure Calls
+#### Mar 26, 2020 - Remote Procedure Calls
 
 - Read: Claire L. Evans, "Communities," Chapter 9 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
 - Watch: [What is an API?](https://www.youtube.com/watch?v=s7wmiS2mSXY)
@@ -284,27 +261,31 @@ This syllabus provides a general outline for the course. The readings and coding
   - Google Maps
   - Google Trends
   - Google Weather
+  
+  
+### Week Thirteen: Algorithms II
 
-#### November 14 - Databases
+#### Mar 31, 2020 - Recursion
 
-*Guest Lecturer: Gordon Stein, Ph.D. Candidate in Computer Science, Vanderbilt University*
-
-- Read: Mana Takahashi and Shoko Azuma, "What is a Database?" Chapter 1 of *The Manga Guide to Databases* (San Francisco: No Starch Press, 2009), pp. 1-22
-- Watch: [What is a Database?](https://www.youtube.com/watch?v=t8jgX1f8kc4)
+- Read: Martin Erwig, "A Stich in Time Computers Fine," Chapter 12 of *Once Upon an Algorithm: How Stories Explain Computing"* (Cambridge: MIT Press, 2017)
+- Watch: [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
 - Code:
-  - CloudVariables RPC
+  - Trees in a Forest
+  - Computing Factorials
+
+#### Apr 2, 2020 - Efficiency and Limits of Computing
+
+- Read: "Mission Intractable," Chapter 7 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
+- Watch: [P vs NP on TV](https://www.youtube.com/watch?v=dJUEkjxylBw)
+- Code:
+  - Prime Number Factorization
+  - Knapsack Problem
+
 
 ### Week Fourteen: Next Steps
 
-#### November 19 - Digital Humanities
+#### Apr 7, 2020 - Computational Thinking Beyond *NetsBlox*
 
-- Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
-- Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
-- Code:
-  - Natural Language Processing with Parallel Dots
-
-#### November 21 - Computational Thinking Beyond *NetsBlox*
-*Final paper due at beginning of class*
 
 - Read: Martin Erwig, "A Bird's Eye View of Abstracting from Details," Chapter 15 of *Once Upon an Algorithm: How Stories Explain Computing* (Cambridge: MIT Press, 2017)
 - Watch: [The Art of Abstraction](https://www.youtube.com/watch?v=p7nGcY73epw)
@@ -312,9 +293,16 @@ This syllabus provides a general outline for the course. The readings and coding
   - Javascript in NetsBlox
   - Validating an Email Address
 
-### Week Fifteen -  No Class - Thanksgiving
 
-### Week Sixteen: Project Demonstrations
+#### Apr 9, 2020 - Digital Humanities [Guest lecture by Cliff Anderson, Associate Librarian]
+*Final paper due at beginning of class*
+
+- Read: Claire L. Evans, "Hypertext," Chapter 10 of *Broad Band: The Untold Story of the Women Who Made the Internet* (New York: Portfolio/Penguin, 2018)
+- Watch: [Big Data + Old History](https://www.youtube.com/watch?v=tp4y-_VoXdA)
+- Code:
+  - Natural Language Processing with Parallel Dots
+
+### Week Fifteen - Project Demonstrations
 
 #### December 3 - Student Projects, Part One
 
